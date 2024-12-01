@@ -9,7 +9,7 @@ import UxMap from "@/components/UxMap.vue"
     <MyHeader />
   </div>
   <!-- 内容区 -->
-  <div class="pt-20">
+  <div class="pt-20 flex flex-col justify-center items-center min-h-screen">
     <UxMap />
   </div>
 </template>
